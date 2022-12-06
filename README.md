@@ -17,4 +17,16 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...
 #### Web Development -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
-#### JavaScript, HTML, CSS, React, Nodejs
+#### JavaScript, HTML, CSS, React, Nodejs, TypeScript, Ruby
+
+## About Me
+- I am a Full Stack Web developer pivoting from 10 years as a Red Seal Electrician. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
+- I am excited about the future and what Web Development can do for my family. I live each day with displined and presistent paradigm. I love challenges, puzzles of all types, and most learning through failure. The profound sense of achievement when you turn a failure into success is the purest form of motivation.
+- I am a dedicated father, mountain biker, trail builder, climber and skier. 
+- I am a working conduit for accessibilty of all forms. 
+
+
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50" height="50" />
