@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - I am excited about the future and what Web Development can do for my family. I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a loss into success is the purest form of motivation. 
 
-- I am a dedicated father, mountain biker, trail builder, climber and skier.er.  
+- I am a dedicated father, mountain biker, trail builder, climber and skier  
 
 
  
