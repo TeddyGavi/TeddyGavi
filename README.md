@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 #### JavaScript, HTML, CSS, React, Nodejs, TypeScript, Ruby
 
 ### About Me
-- I am a Full Stack Web developer pivoting from 10 years as a Red Seal Electrician. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
+- I am a Full Stack Web developer pivoting from 10 years in the Electrical Industry. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
 
-- I am excited about the future and what Web Development can do for my family. I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a loss into success is the purest form of motivation. 
+- I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
-- I am a dedicated father, mountain biker, trail builder, climber and skier  
+- I am a dedicated father, mountain biker, trail builder, climber and skier.
+
+      "Writing is nature's way of letting you know how sloppy your thinking is." -- Dick Guindon
 
 
  
