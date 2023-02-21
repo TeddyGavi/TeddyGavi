@@ -26,14 +26,13 @@ Here are some ideas to get you started:
 
 ### 💬 About Me
 - Web Development Graduate -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
-- 
 - I am a Full Stack Web developer pivoting from 10 years in the Electrical Industry. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
 
 - I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
 - I am a dedicated father, mountain biker, trail builder, climber and skier.
 
-### 📫 How to reach me: ...
+### 📫 How to reach me ...
 -  www.linkedin.com/in/matcdavis
 
 
