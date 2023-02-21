@@ -1,6 +1,6 @@
 # 👋 Welcome!!
 
- ### Hello!
+ ### ⚡ Hello! ⚡
 -  I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒 . 
 -  Ask me about my B.Sc in Biology, outdoor recreation, or circus arts and I will lavish you with quirks!
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 #### React, Nextjs, Nodejs, TypeScript, Sanity.io, Ruby
 
-### About Me
+### 💬 About Me
 - Web Development Graduate -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 - 
 - I am a Full Stack Web developer pivoting from 10 years in the Electrical Industry. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
