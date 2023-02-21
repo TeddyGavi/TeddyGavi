@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 
 - I am a dedicated father, mountain biker, trail builder, climber and skier.
 
-### 📫 How to reach me ...
--  www.linkedin.com/in/matcdavis
-
 
        "Writing is nature's way of letting you know how sloppy your thinking is." -- Dick Guindon
 
