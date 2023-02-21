@@ -16,21 +16,26 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ### 🌱 I’m currently learning ...
-#### Web Development -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
-#### JavaScript, HTML, CSS, React, Nodejs, TypeScript, Ruby
+#### React, Nextjs, Nodejs, TypeScript, Sanity.io, Ruby
 
 ### About Me
+- Web Development Graduate -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
+- 
 - I am a Full Stack Web developer pivoting from 10 years in the Electrical Industry. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
 
 - I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
 - I am a dedicated father, mountain biker, trail builder, climber and skier.
+
+### 📫 How to reach me: ...
+-  www.linkedin.com/in/matcdavis
+
 
       "Writing is nature's way of letting you know how sloppy your thinking is." -- Dick Guindon
 
