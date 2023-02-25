@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 ### 💬 About Me
 - Web Development Graduate -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
-- I am a Full Stack Web developer pivoting from 10 years in the Electrical Industry. I am a lifelong learner, convinced that technology is the future of human evolution. I am going to be part of the evolution. Utilizing modern technologies that simultaneously enhance the Developer and User experience, I create applications that are a pleasure to use and maintain.
+
+- Full Stack Web Developer transitioning from the Electrical industry. A lifelong learner that is interested in the future of AI/ML and its applications to develop solutions to common problems. Enjoy creating and developing apps that are easy to use and simple to maintain.
 
 - I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
