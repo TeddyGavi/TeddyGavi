@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### React, Nextjs, Nodejs, TypeScript, Sanity.io, Ruby
 
 ### 💬 About Me
-- Web Development Graduate -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
+- Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
 - Full Stack Web Developer transitioning from the Electrical industry. A lifelong learner that is interested in the future of AI/ML and its applications to develop solutions to common problems. Enjoy creating and developing apps that are easy to use and simple to maintain.
 
