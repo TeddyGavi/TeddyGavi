@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-- Full Stack Web Developer transitioning from the Electrical industry. A lifelong learner that is interested in the future of AI/ML and its applications to develop solutions to common problems. Enjoy creating and developing apps that are easy to use and simple to maintain.
+- I have built a detailed and persistent mindset from years of installing intricate Electrical systems. By bringing these skills to Full Stack Web Development I create websites and apps that are easy to use and maintain. As a self-identified tinkerer, I am learning how AI/ML and blockchain technologies can enhance everyday life. 
 
-- I live each day with a disciplined and persistent paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
+- I live each day with a disciplined paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
 - I am a dedicated father, mountain biker, trail builder, climber and skier.
 
