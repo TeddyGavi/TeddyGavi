@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-- I have built a detailed and persistent mindset from years of installing intricate Electrical systems. By bringing these skills to Full Stack Web Development I create websites and apps that are easy to use and maintain. As a self-identified tinkerer, I am learning how AI/ML and blockchain technologies can enhance everyday life. 
+- I have over ten years of experience in installing and documenting complex electrical systems, having developed a detailed and dynamic ethos. The perspective I bring on web development is unique, combining both practical and technical expertise. I am skilled at establishing empathetic connections with clients and managing stressful situations. As a self-identified tinkerer, I am exploring the potential of AI/ML and blockchain technologies to enhance everyday life.
 
 - I live each day with a disciplined paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
