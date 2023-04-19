@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-- I have over ten years of experience in installing and documenting complex electrical systems, having developed a detailed and dynamic ethos. The perspective I bring on web development is unique, combining both practical and technical expertise. I am skilled at establishing empathetic connections with clients and managing stressful situations. As a self-identified tinkerer, I am exploring the potential of AI/ML and blockchain technologies to enhance everyday life.
+- I have over ten years of experience installing and documenting complex electrical systems, having developed a detailed and dynamic ethos. My perspective on web development is unique, combining both practical and technical expertise. I am skilled at establishing empathetic connections with clients and managing stressful situations. As a self-identified tinkerer, I am exploring the latest technologies via the potential of AI/ML and blockchain technologies to enhance everyday life.
 
 - I live each day with a disciplined paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
 
