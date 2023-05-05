@@ -1,8 +1,8 @@
 # 👋 Welcome!!
 
  ### ⚡ Hello! ⚡
--  I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒 . 
--  Ask me about my B.Sc in Biology, outdoor recreation, or circus arts and I will lavish you with quirks!
+ Lets get started with a quirky bit:
+-  😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒 . 
 
 <!--
 
@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
-- I have over ten years of experience installing and documenting complex electrical systems, having developed a detailed and dynamic ethos. My perspective on web development is unique, combining both practical and technical expertise. I am skilled at establishing empathetic connections with clients and managing stressful situations. As a self-identified tinkerer, I am exploring the latest technologies via the potential of AI/ML and blockchain technologies to enhance everyday life.
+- 🧭 My passion for technology started in my childhood with my father. He and I assembled many PCs together. I was always quick to play MS-Dos games.
 
-- I live each day with a disciplined paradigm. I love challenges, puzzles of all types, and learning through failure. The profound sense of achievement when you turn a mistake into success is the purest form of motivation. 
+- 💻 After studying Computer Science at University, I decided to support my wife during her Master's Degree on the west coast. When my daughter was born, I took the opportunity to pursue my passion and learn HTML, CSS, and JavaScript. I have since developed a proficiency in various languages, frameworks, and libraries, including Next, TypeScript, Ruby, Sanity.io, Node.js, Express, jQuery, Tailwind CSS, Styled Components, and Framer Motion. I also have experience with database management systems and serverless architectures via PostgreSQL and Microsoft Azure.
 
-- I am a dedicated father, mountain biker, trail builder, climber and skier.
+- 🌩️ As a former electrician, I bring a unique perspective to every project, combining my technical expertise with a passion for creative problem-solving and attention to detail honed from years of installing complex electrical systems. 
+
+- ⛰️ When I'm not coding, I enjoy spending my free time mountain biking, trail building, climbing, skiing, and volunteering with SORCA since 2018 to assist in ongoing trail maintenance and trail building.
 
 
        "Writing is nature's way of letting you know how sloppy your thinking is." -- Dick Guindon
