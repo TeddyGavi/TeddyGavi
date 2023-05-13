@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
 #### React, Nextjs, Nodejs, Express, TypeScript, Sanity.io, Ruby
 
-### TLDR => I bring a unique, creative and detailed-orientated perspective to software development, from years of installing and documenting complex electrical systems. I am skilled at establishing empathetic connections with clients and managing stressful situations. In addition to implementing successful front and back-end applications, I am currently exploring the use cases of AI/ML.
+### TLDR 
+I bring a unique, creative and detailed-orientated perspective to software development, from years of installing and documenting complex electrical systems. I am skilled at establishing empathetic connections with clients and managing stressful situations. In addition to implementing successful front and back-end applications, I am currently exploring the use cases of AI/ML.
 
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
