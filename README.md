@@ -1,8 +1,8 @@
 # 👋 Welcome!!
 
  ### ⚡ Hello! ⚡
- Lets get started with a quirky bit:
--  😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒 . 
+ Lets get started with the quirky bit:
+-  😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒 
 
 <!--
 
@@ -22,14 +22,16 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning ...
-#### React, Nextjs, Nodejs, TypeScript, Sanity.io, Ruby
+#### React, Nextjs, Nodejs, Express, TypeScript, Sanity.io, Ruby
+
+### TLDR => I bring a unique, creative and detailed-orientated perspective to software development, from years of installing and documenting complex electrical systems. I am skilled at establishing empathetic connections with clients and managing stressful situations. In addition to implementing successful front and back-end applications, I am currently exploring the use cases of AI/ML.
 
 ### 💬 About Me
 - Web Development Diploma -- [Lighthouse Labs](https://www.lighthouselabs.ca/)
 
 - 🧭 My passion for technology started in my childhood with my father. He and I assembled many PCs together. I was always quick to play MS-Dos games.
 
-- 💻 After studying Computer Science at University, I decided to support my wife during her Master's Degree on the west coast. When my daughter was born, I took the opportunity to pursue my passion and learn HTML, CSS, and JavaScript. I have since developed a proficiency in various languages, frameworks, and libraries, including Next, TypeScript, Ruby, Sanity.io, Node.js, Express, jQuery, Tailwind CSS, Styled Components, and Framer Motion. I also have experience with database management systems and serverless architectures via PostgreSQL and Microsoft Azure.
+- 💻 After studying Computer Science at University, I decided to support my wife during her Master's Degree on the west coast. When my daughter was born, I took the opportunity to pursue my passion and learn Full Stack Development. I have since developed a proficiency in various languages, frameworks, and libraries, including Next, TypeScript, Ruby, Sanity.io, Node.js, Express, jQuery, Tailwind CSS, Styled Components, and Framer Motion. I also have experience with database management systems and serverless architectures via PostgreSQL and Microsoft Azure.
 
 - 🌩️ As a former electrician, I bring a unique perspective to every project, combining my technical expertise with a passion for creative problem-solving and attention to detail honed from years of installing complex electrical systems. 
 
