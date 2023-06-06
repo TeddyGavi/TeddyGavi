@@ -36,7 +36,7 @@ I bring a unique, creative and detailed-orientated perspective to software devel
 
 - 🌩️ As a former electrician, I bring a unique perspective to every project, combining my technical expertise with a passion for creative problem-solving and attention to detail honed from years of installing complex electrical systems. 
 
-- ⛰️ When I'm not coding, I enjoy spending my free time mountain biking, trail building, climbing, skiing, and volunteering with SORCA since 2018 to assist in ongoing trail maintenance and trail building.
+- ⛰️ When I'm not coding, I'm raising a daughter! When I have free time, I enjoy time mountain biking, trail building, climbing, skiing, and volunteering with SORCA since 2018 to assist in ongoing trail maintenance and trail building.
 
 
        "Writing is nature's way of letting you know how sloppy your thinking is." -- Dick Guindon
