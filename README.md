@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Expo, React Native, GPS logging, BLE, integration with custom Zephyr RTOS on a nrf52dk board.
 **Check out the project on YT [We Measured mountain bike suspension with a laser!](https://youtu.be/SCmJ3pTyt44)**
 
-[See the code](https://github.com/TeddyGavi/rn-ble)
+Repo is -> [Code](https://github.com/TeddyGavi/rn-ble)
 
 ### TLDR 
 I bring a unique, creative and detailed-orientated perspective to software development, from years of installing and documenting complex electrical systems. I am skilled at establishing empathetic connections with clients and managing stressful situations. In addition to implementing successful front and back-end applications, I am currently exploring the use cases of AI/ML.
