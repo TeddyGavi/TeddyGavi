@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=teddygavi&color=blueviolet)
 
 ### ⚡ Hello! ⚡
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/TeddyGavi/TeddyGavi/main/outline-min.svg" alt=" character image drawn by cartoon Katie">
 </img>
-</div>
 
 Lets get started with the quirky bit:
 
