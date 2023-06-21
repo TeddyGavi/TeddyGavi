@@ -4,8 +4,7 @@
 
 ### ⚡ Hello! ⚡
 
-<img src="https://raw.githubusercontent.com/TeddyGavi/TeddyGavi/main/outline-min.svg" alt=" character image drawn by cartoon Katie">
-</img>
+![](./outline-min.svg)
 
 Lets get started with the quirky bit:
 
