@@ -4,9 +4,8 @@
 
 ### ⚡ Hello! ⚡
 
-<div align="center">
-![](./outline-min.svg)
-</div>
+<img align="center" src="" alt="character image drawn by cartoon katie">
+</img>
 
 Lets get started with the quirky bit:
 
