@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=teddygavi&color=blueviolet)
 
 ### ⚡ Hello! ⚡
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TeddyGavi/TeddyGavi/main/outline-min.svg" alt="cartoon Katie drawing of owner"></img>
+</div>
 
-![](./outline-min.svg)
-
-<div style="text-align: right">
 Lets get started with the quirky bit:
 
 - 😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒
@@ -36,7 +36,12 @@ Lets get started with the quirky bit:
 
 Repo is -> [Code](https://github.com/TeddyGavi/rn-ble)
 
-</div>
+
+
+
+
+
+
 
 ### TLDR
 
