@@ -1,15 +1,3 @@
-# 👋 Welcome!!
-
-![](https://komarev.com/ghpvc/?username=teddygavi&color=blueviolet)
-
-### ⚡ Hello! ⚡
-
-![](./outline-min.svg)
-
-Lets get started with the quirky bit:
-
-- 😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒
-
 <!--
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeddyGavi&theme=cobalt)
@@ -27,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 👋 Welcome!!
+
+![](https://komarev.com/ghpvc/?username=teddygavi&color=blueviolet)
+
+### ⚡ Hello! ⚡
+
+![](./outline-min.svg)
+
+<div style="text-align: right">
+Lets get started with the quirky bit:
+
+- 😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒
+
 ### 🌱 I’m currently learning ...
 
 #### Expo, React Native, GPS logging, BLE, integration with custom Zephyr RTOS on a nrf52dk board.
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
 **Check out the project on YT [We Measured mountain bike suspension with a laser!](https://youtu.be/SCmJ3pTyt44)**
 
 Repo is -> [Code](https://github.com/TeddyGavi/rn-ble)
+
+</div>
 
 ### TLDR
 
