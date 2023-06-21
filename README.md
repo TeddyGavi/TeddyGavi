@@ -4,7 +4,9 @@
 
 ### ⚡ Hello! ⚡
 
+<p align="center">
 ![](./outline-min.svg)
+</p>
 
 Lets get started with the quirky bit:
 
