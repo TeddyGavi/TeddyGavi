@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Hello! ⚡
 
-<img src="https://raw.githubusercontent.com/TeddyGavi/TeddyGavi/main/outline-min.svg" alt="carton katie drawing on owner animated"></img>
+![](./outline-min.svg)
 
 Lets get started with the quirky bit:
 
@@ -34,13 +34,6 @@ Lets get started with the quirky bit:
 **Check out the project on YT [We Measured mountain bike suspension with a laser!](https://youtu.be/SCmJ3pTyt44)**
 
 Repo is -> [Code](https://github.com/TeddyGavi/rn-ble)
-
-
-
-
-
-
-
 
 ### TLDR
 
