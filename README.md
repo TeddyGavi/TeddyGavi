@@ -59,4 +59,4 @@ I bring a unique, creative and detailed-orientated perspective to software devel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeddyGavi&theme=cobalt)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGavi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGavi&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
