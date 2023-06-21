@@ -4,7 +4,7 @@
 
 ### ⚡ Hello! ⚡
 
-<img align="center" src="" alt="character image drawn by cartoon katie">
+<img align="center" src="https://github.com/TeddyGavi/TeddyGavi/blob/main/outline-min.svg" alt="character image drawn by cartoon katie">
 </img>
 
 Lets get started with the quirky bit:
