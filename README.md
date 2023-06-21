@@ -1,4 +1,5 @@
 # 👋 Welcome!!
+![](https://komarev.com/ghpvc/?username=teddygavi&color=blueviolet)
 
  ### ⚡ Hello! ⚡
  Lets get started with the quirky bit:
