@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Hello! ⚡
 
-![](./outline-min.svg)
+<img src="https://raw.githubusercontent.com/TeddyGavi/TeddyGavi/main/outline-min.svg" alt="carton katie drawing on owner animated"></img>
 
 Lets get started with the quirky bit:
 
