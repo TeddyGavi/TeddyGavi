@@ -2,8 +2,8 @@
 <style>
 
 #all-paths {
-  stroke-dasharray: 100000;
-  stroke-dashoffset: 100000;
+  stroke-dasharray: 10000;
+  stroke-dashoffset: 10000;
   animation: dash 15s linear forwards;
 }
 
