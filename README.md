@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - 📄 Resume [https://github.com/TeddyGavi/Resume](https://github.com/TeddyGavi/Resume)
 - 🔭 I’m currently working on **Chingu and Activist**
 - 🌱 I’m currently learning **Next 13, Nuxt, PHP, Supabase**
-- 👯 I’m looking to collaborate on **Open-source**
+- 👯 I’m looking to collaborate on **Making the world a better place**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
-- 📝 I regularly write articles on [https://matcdavis.dev/blog](https://matcdavis.dev/blog)
+- 📝 I write articles on [https://matcdavis.dev/blog](https://matcdavis.dev/blog)
 - 💬 Ask me about **React, Vue, TypeScript, Sanity**
 - 📫 How to reach me **matc.davis@gmail.com**
 
