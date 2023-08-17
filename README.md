@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddygavi&label=Profile%20views&color=blueviolet&style=flat" alt="teddygavi" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddygavi" alt="teddygavi" /></a> </p> -->
 
 - 📄 Resume [https://github.com/TeddyGavi/Resume](https://github.com/TeddyGavi/Resume)
 - 🔭 I’m currently working on **Chingu and Activist**
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddygavi&" alt="teddygavi" /></p> -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddygavi" alt="teddygavi" /></a> </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeddyGavi&theme=cobalt)
 
