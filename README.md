@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Making the world a better place**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
 - 📝 I write articles on [https://matcdavis.dev/blog](https://matcdavis.dev/blog)
-- 💬 Ask me about **React, Vue, TypeScript, Sanity**
+- 💬 Ask me about **Open-source, Next, React, Nuxt, Vue, TypeScript, PostgreSQL**
 - 📫 How to reach me **matc.davis@gmail.com**
 
 - ⚡ Fun fact **I once was a routine street performer, specializing in juggling and fire breathing**
