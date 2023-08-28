@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 
+<p align="left"><img src="./outline-min.svg"/></p>
 <h1 align="center">⚡ Hello! ⚡ I'm Matt Davis</h1>
 <h3 align="center">Nothing lights me up more like changing someone else’s life for the better. If you do that, let's chat!</h3>
 
-<p align="left"><img width="256" height="256" src="./outline-min.svg"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddygavi&label=Profile%20views&color=blueviolet&style=flat" alt="teddygavi" /> </p>
 
