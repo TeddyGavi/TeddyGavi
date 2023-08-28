@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"><img src="./outline-min.svg"/></p>
 <h1 align="center">⚡ Hello! ⚡ I'm Matt Davis</h1>
+<p align="center"><img src="./outline-min.svg"/></p>
 <h3 align="center">Nothing lights me up more like changing someone else’s life for the better. If you do that, let's chat!</h3>
 
 
