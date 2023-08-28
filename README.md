@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">⚡ Hello! ⚡ I'm Matt Davis</h1>
 <h3 align="center">Nothing lights me up more like changing someone else’s life for the better. If you do that, let's chat!</h3>
+<p align="center"><img src="./outline-min.svg"/></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddygavi&label=Profile%20views&color=blueviolet&style=flat" alt="teddygavi" /> </p>
@@ -35,7 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **matc.davis@gmail.com**
 
 - ⚡ Fun fact **I once was a routine street performer, specializing in juggling and fire breathing**
-<p align="center"><img src="./outline-min.svg"/></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
