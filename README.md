@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Chingu and Activist**
 - 🌱 I’m currently learning **Next 13, DSA!, Nuxt, PHP, Prisma, Supabase**
 - 👯 I’m looking to collaborate on **Making the world a better place**
+- 🤔 I’m looking for help with **Nest.js**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
 - 📝 I write articles on [https://matcdavis.dev/blog](https://matcdavis.dev/blog)
 - 💬 Ask me about **Open-source, Next, React, Nuxt, Vue, TypeScript, PostgreSQL**
