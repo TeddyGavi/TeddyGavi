@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Lets get started with the quirky bit:
 
-- 😀 I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒
+- I once was a routine street performer, specializing in juggling and fire breathing 🔥 🚒
 
 ### 🌱 I’m currently learning ...
 
