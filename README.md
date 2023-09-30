@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I once was a routine street performer, specializing in juggling and fire breathing**
 
-<h3 align="left">**Connect with me:**</h3>
+<h3 align="left"><p>**Connect with me:**</p></h3>
 <p align="left">
 <a href="https://twitter.com/matcdavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matcdavis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matcdavis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matcdavis/" height="30" width="40" /></a>
