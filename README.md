@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">⚡ Hello! ⚡ I am Matt Davis</h1>
+<h1 align="center">⚡ Hello! ⚡ I'm Matt Davis</h1>
 <h3 align="center">Nothing lights me up more than changing someone else’s life for the better. If you do that, let's chat 😄</h3>
 <p align="center"><img src="./outline-min.svg"/></p>
 
