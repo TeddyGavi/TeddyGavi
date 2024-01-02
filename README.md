@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - In my free time:
   - 🔭 I’m currently working on **Activist**
   - 🌱 I’m currently learning **Next 13, DSA!, Nuxt, PHP, Prisma, Supabase**
+  - I'm involved in community at Totem Hall and [SWC](https://seatoskycommunity.org/) 
 - 👯 I’m looking to collaborate on **Making the world a better place**
 - 🤔 I’m looking for help with **Nest.js**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
