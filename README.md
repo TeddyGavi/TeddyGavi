@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 
 
 - 📄 Resume [https://github.com/TeddyGavi/Resume](https://github.com/TeddyGavi/Resume)
-- 🔭 I’m currently working on **Chingu and Activist**
-- 🌱 I’m currently learning **Next 13, DSA!, Nuxt, PHP, Prisma, Supabase**
+- Full Stack Developer @ [Finnovate.io](https://finnovate.io/)
+- In my free time:
+  - 🔭 I’m currently working on **Activist**
+  - 🌱 I’m currently learning **Next 13, DSA!, Nuxt, PHP, Prisma, Supabase**
 - 👯 I’m looking to collaborate on **Making the world a better place**
 - 🤔 I’m looking for help with **Nest.js**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
