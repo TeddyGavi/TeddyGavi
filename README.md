@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 - 📄 Resume [https://github.com/TeddyGavi/Resume](https://github.com/TeddyGavi/Resume)
 - Full Stack Developer @ [Finnovate.io](https://finnovate.io/)
 - In my free time:
-  - 🔭 I’m currently working on **Activist**
-  - 🌱 I’m currently learning **Next 13, DSA!, Nuxt, PHP, Prisma, Supabase**
-  - I'm involved in community at Totem Hall and [SWC](https://seatoskycommunity.org/) 
+  - 🔭 I’m currently working on Go clis and .dotfiles
+  - 🌱 I’m currently learning **Go, MCP**
+  - Previously involved in community at Totem Hall and [SWC](https://seatoskycommunity.org/) 
 - 👯 I’m looking to collaborate on **Making the world a better place**
 - 👨‍💻 All of my projects are available at [https://matcdavis.dev/](https://matcdavis.dev/)
 - 📝 I write articles on [https://matcdavis.dev/blog](https://matcdavis.dev/blog)
-- 💬 Ask me about **Open-source, Next, React, Nuxt, Vue, TypeScript, PostgreSQL**
+- 💬 Ask me about **.config**
 - 📫 How to reach me **matc.davis@gmail.com**
 
 - ⚡ Fun fact **I once was a routine street performer, specializing in juggling and fire breathing**
